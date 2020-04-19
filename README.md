@@ -3,7 +3,7 @@
 
 
 ## Watch Video Tutorial
-[Watch video with details on youtube](https://www.youtube.com/channel/UCD8nhbxPg4DT0vqRxxpK6Kw/).
+[Watch video with details on youtube](https://youtu.be/tbffE8Lh2Co).
 
 ## Demo
 [Click Here](https://repl.it/@LiveSportsSport/Know-your-symptoms).
