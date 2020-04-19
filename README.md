@@ -10,3 +10,5 @@
 
 ### Download
 If you like to get the source code [Go Download](https://github.com/jaffery97/covid19symptoms/archive/master.zip) to improve your C++ programming language skill and help your community through technology.
+
+#### Need Help on your assignment ? [Go here](https://edchat.info/ed).
