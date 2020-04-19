@@ -5,8 +5,7 @@
 using namespace std;
 
 int symptomsSelect(){
-  //top space
-cout<<"\n"<<"\n"<<"\n"<<"\n"<<"\n"<<"\n";
+
 //start main function
 cout<<"---------------------Know your symptoms-----------------------"<< endl;
 string name;
@@ -75,6 +74,7 @@ cout<<"\n"<<"\n"<<name<<", Thank you for using the programe | Stay healthy and i
 }
 
 int main(){
+
 //function name
 symptomsSelect();
 
