@@ -1,5 +1,5 @@
 # COVID19 🦠
-### This C++ app will help you to know your type of symptoms at the pandemic COVID-19. I hope the app might help people to take initiative action for health under the COVID-19 circumstance. All symptoms source by Mayo Clinic: CDC
+#### This C++ app will help you to know your type of symptoms at the pandemic COVID-19. I hope the app might help people to take initiative action for health under the COVID-19 circumstance. All symptoms source by Mayo Clinic: CDC
 
 
 ## Watch Video Tutorial
